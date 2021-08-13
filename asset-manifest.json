@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/box-generator/static/css/main.bbf1a6c8.chunk.css",
-    "main.js": "/box-generator/static/js/main.e6ebc17f.chunk.js",
-    "main.js.map": "/box-generator/static/js/main.e6ebc17f.chunk.js.map",
+    "main.js": "/box-generator/static/js/main.e9a084de.chunk.js",
+    "main.js.map": "/box-generator/static/js/main.e9a084de.chunk.js.map",
     "runtime-main.js": "/box-generator/static/js/runtime-main.1bcdf6af.js",
     "runtime-main.js.map": "/box-generator/static/js/runtime-main.1bcdf6af.js.map",
     "static/css/2.df93ccea.chunk.css": "/box-generator/static/css/2.df93ccea.chunk.css",
-    "static/js/2.64880543.chunk.js": "/box-generator/static/js/2.64880543.chunk.js",
-    "static/js/2.64880543.chunk.js.map": "/box-generator/static/js/2.64880543.chunk.js.map",
+    "static/js/2.0778a407.chunk.js": "/box-generator/static/js/2.0778a407.chunk.js",
+    "static/js/2.0778a407.chunk.js.map": "/box-generator/static/js/2.0778a407.chunk.js.map",
     "static/js/3.626de459.chunk.js": "/box-generator/static/js/3.626de459.chunk.js",
     "static/js/3.626de459.chunk.js.map": "/box-generator/static/js/3.626de459.chunk.js.map",
     "index.html": "/box-generator/index.html",
     "static/css/2.df93ccea.chunk.css.map": "/box-generator/static/css/2.df93ccea.chunk.css.map",
     "static/css/main.bbf1a6c8.chunk.css.map": "/box-generator/static/css/main.bbf1a6c8.chunk.css.map",
-    "static/js/2.64880543.chunk.js.LICENSE.txt": "/box-generator/static/js/2.64880543.chunk.js.LICENSE.txt"
+    "static/js/2.0778a407.chunk.js.LICENSE.txt": "/box-generator/static/js/2.0778a407.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1bcdf6af.js",
     "static/css/2.df93ccea.chunk.css",
-    "static/js/2.64880543.chunk.js",
+    "static/js/2.0778a407.chunk.js",
     "static/css/main.bbf1a6c8.chunk.css",
-    "static/js/main.e6ebc17f.chunk.js"
+    "static/js/main.e9a084de.chunk.js"
   ]
 }
